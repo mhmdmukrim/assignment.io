@@ -1,0 +1,30 @@
+table {
+    margin: 20px;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    width: 200px;
+}
+
+button {
+    background-color: lightskyblue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type=text],
+input[type=password],
+input[type=mail] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
